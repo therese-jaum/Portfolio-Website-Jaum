@@ -1,4 +1,3 @@
-# Portfolio-Website-Jaum!
 ![Screenshot (94)](https://github.com/therese-jaum/Portfolio-Website-Jaum/assets/143146886/b49b6d90-e7ec-4455-8a83-4042705e3d43)
 ![Screenshot (95)](https://github.com/therese-jaum/Portfolio-Website-Jaum/assets/143146886/e39732be-0753-4815-bb20-0cdae9dec7c2)
 ![Screenshot (96)](https://github.com/therese-jaum/Portfolio-Website-Jaum/assets/143146886/1263222c-7c89-4e28-91a1-8ddc52a6915a)
